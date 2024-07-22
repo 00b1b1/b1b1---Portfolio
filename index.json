@@ -2,7 +2,7 @@
   "html": {
     "lang": "es",
     "title": "#b1b1 | Ahmed Bibi",
-    "description": "Diseño gráfico, diseño web y en Barcelona",
+    "description": "Diseño gráfico, diseño web y en Barcelona. Más info en hola@b1b1.es",
     "favicon": "/favicon.png"
   },
   "background": {
@@ -11,7 +11,7 @@
   },
   "header": {
     "image": "/logo.png",
-    "alt": "The owner of this website.",
+    "alt": "#b1b1 logo",
     "title": "#b1b1",
     "description": "Diseño gráfico y web",
     "textColor": "white"
@@ -20,12 +20,14 @@
     {
       "network": "LinkedIn",
       "username": "b1b1",
-      "url": "https://www.linkedin.com/in/b1b1"
+      "url": "https://www.linkedin.com/in/b1b1",
+      "button-color-text-primary": "#00b1b1"
     },
     {
       "network": "Instagram",
       "username": "b_1__b_1 ",
-      "url": "https://www.instagram.com/b_1__b_1"
+      "url": "https://www.instagram.com/b_1__b_1",
+      "button-color-text-primary": "#00b1b1"
     },
     {
       "network": "X",
@@ -60,7 +62,7 @@
     {
       "network": "Mail",
       "url": "mailto:hola@b1b1.es",
-      "title": "Evitemos la paloma mensaje, hablemos por mail",
+      "title": "Evitemos la paloma mensajera, hablemos por mail",
       "textColor": "#00b1b1",
       "backgroundColor": "#0F1119",
       "borderRadius": ".75rem"
