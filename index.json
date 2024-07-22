@@ -62,14 +62,14 @@
     {
       "network": "Mail",
       "url": "mailto:hola@b1b1.es",
-      "title": "Evitemos la paloma mensajera, hablemos por mail",
+      "title": "Evitemos la 🕊️ mensajera, hablemos por mail",
       "textColor": "#00b1b1",
       "backgroundColor": "#0F1119",
       "borderRadius": ".75rem"
     }
   ],
   "footer": {
-    "copyright": "Hecho con ❤ en BCN",
+    "copyright": "© 2024 | Made with ❤ in BCN",
     "textColor": "#00b1b1",
     "url": "https://b1b1.es"
   }
