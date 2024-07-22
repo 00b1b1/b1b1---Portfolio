@@ -1,95 +1,69 @@
 {
   "html": {
-    "lang": "en",
-    "title": "Marcos Carrasco",
-    "description": "Follow me on all my socials",
-    "favicon": "/favicon.svg"
+    "lang": "es",
+    "title": "#b1b1 | Ahmed Bibi",
+    "description": "Diseño gráfico, diseño web y en Barcelona",
+    "favicon": "/favicon.png"
   },
   "background": {
-    "firstColor": "#454281",
-    "secondColor": "#B38AC2"
+    "firstColor": "#00b1b1  ",
+    "secondColor": "#0F1119"
   },
   "header": {
-    "image": "/profile.webp",
+    "image": "/logo.png",
     "alt": "The owner of this website.",
-    "title": "Marcos Carrasco",
-    "description": "Full Stack Developer",
+    "title": "#b1b1",
+    "description": "Diseño gráfico y web",
     "textColor": "white"
   },
   "socials": [
     {
-      "network": "GitHub",
-      "username": "marcosklender",
-      "url": "https://github.com/marcosklender"
-    },
-    {
       "network": "LinkedIn",
-      "username": "marcosklender",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US"
+      "username": "b1b1",
+      "url": "https://www.linkedin.com/in/b1b1"
     },
     {
       "network": "Instagram",
-      "username": "marcosklender",
-      "url": "https://www.instagram.com/marcosklender"
+      "username": "b_1__b_1 ",
+      "url": "https://www.instagram.com/b_1__b_1"
     },
     {
       "network": "Mail",
-      "username": "marcosklender",
-      "url": "mailto:marcosklender@gmail.com"
-    },
-    {
-      "network": "Link",
-      "username": "JSONLinks",
-      "url": "https://jsonlinks.netlify.app/templates"
+      "username": "hola@b1b1.es",
+      "url": "mailto:hola@b1b1.es"
     }
   ],
   "featured": [
-    {
-      "network": "GitHub",
-      "url": "https://github.com/MarcosKlender/AstroLinkHub",
-      "title": "Use this template and star it (:",
-      "textColor": "#FFF",
-      "backgroundImage": "https://githubuniverse.com/og-image-24.jpg",
-      "backgroundColor": null,
-      "borderRadius": ".75rem"
-    }
   ],
   "buttons": [
     {
       "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US",
-      "title": "Let's connect on LinkedIn",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
+      "url": "https://www.linkedin.com/in/b1b1",
+        "title": "¿Y si hablamos por LinkedIn?",
+      "textColor": "#00b1b1",
+      "backgroundColor": "#0F1119",
       "borderRadius": ".75rem"
     },
     {
       "network": "Instagram",
-      "url": "https://www.instagram.com/marcosklender",
-      "title": "Follow me on Instagram",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
+      "url": "https://www.instagram.com/b_1__b_1",
+      "title": "Sigueme en Instagram",
+      "textColor": "#00b1b1",
+      "backgroundColor": "#0F1119",
       "borderRadius": ".75rem"
     },
     {
       "network": "Mail",
-      "url": "mailto:marcosklender@gmail.com",
-      "title": "Contact me anytime",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
-    },
-    {
-      "network": "Link",
-      "url": "https://jsonlinks.netlify.app/templates",
-      "title": "See more templates",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
+      "url": "mailto:hola@b1b1.es",
+      "title": "Evitemos la paloma mensaje, hablemos por mail",
+      "textColor": "#00b1b1",
+      "backgroundColor": "#0F1119",
       "borderRadius": ".75rem"
     }
   ],
   "footer": {
-    "copyright": "Made with 🍺 by MarcosKlender 🇪🇨",
-    "url": "https://marcosklender.com"
+    "copyright": "Hecho con ❤ en BCN",
+    "textColor": "#00b1b1",
+    "url": "https://b1b1.es"
   }
 }
